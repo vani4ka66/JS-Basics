@@ -58,7 +58,6 @@ function solve(input) {
         html += '  </div>\n';
         html += '</article>';
 
-
         if (miss) {
             console.log('Missing attributes')
         }
